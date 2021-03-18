@@ -2,7 +2,7 @@
   "name": "crono",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jpst-developer.github.io/crono/",
+  "homepage": "https://jpst-developer.github.io/CronoRag/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
